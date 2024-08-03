@@ -91,7 +91,7 @@
 
 ## 📊 Statistics 
 <div>
-   <img alt="Azarul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ai97march&custom_title=Azarul%20Islam's%20Contribution%20Graph&theme=react-dark" />
+   <img alt="Azarul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ai97march&custom_title=Azarul%20Islam's%20Contribution%20Graph&theme=react-dark&hide_border=true" />
 </div>
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai97march&theme=2077" width="46%" />
