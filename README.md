@@ -92,11 +92,8 @@
 ## 📊 Statistics  
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai97march&theme=2077" width="46%" />
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-  <img align="right" src="https://streak-stats.demolab.com/?user=ai97march&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+<!--   <img align="right" src="https://streak-stats.demolab.com/?user=ai97march&_border=true&theme=dark&hide_border=true&theme=react" width="46%" /> -->
+  <img align="right" src="https://streak-stats.demolab.com?user=ai97march&theme=radical&mode=weekly&card_height=270" alt="GitHub Streak" />
 </div>
 <br/>
 <br/>
@@ -109,7 +106,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai97march&theme=2077" style="height: 300px"  />                                 
-</div>                                                                                       
+</div>   
 <!--                                                                                                                    
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ai97march&theme=react-dark&hide_border=true" /></a>
