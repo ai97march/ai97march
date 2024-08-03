@@ -93,7 +93,7 @@
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai97march&theme=2077" width="46%" />
 <!--   <img align="right" src="https://streak-stats.demolab.com/?user=ai97march&_border=true&theme=dark&hide_border=true&theme=react" width="46%" /> -->
-  <img align="right" src="https://streak-stats.demolab.com?user=ai97march&theme=radical&mode=weekly&card_height=275" alt="GitHub Streak"  width="46%"/>
+  <img align="right" src="https://streak-stats.demolab.com?user=ai97march&theme=radical&mode=weekly&card_height=290" alt="GitHub Streak"  width="46%"/>
 </div>
 <br/>
 <br/>
