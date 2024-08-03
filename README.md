@@ -89,7 +89,10 @@
   </div>
 
 
-## 📊 Statistics  
+## 📊 Statistics 
+<div>
+   <img alt="Azarul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ai97march&custom_title=Azarul%20Islam's%20Contribution%20Graph&theme=react-dark" />
+</div>
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai97march&theme=2077" width="46%" />
 <!--   <img align="right" src="https://streak-stats.demolab.com/?user=ai97march&_border=true&theme=dark&hide_border=true&theme=react" width="46%" /> -->
@@ -101,6 +104,11 @@
 <div>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai97march&theme=2077" width="45%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ai97march&theme=2077" width="45%" />
+<!-- <div>
+   <p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+      </p>
+</div> -->
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
