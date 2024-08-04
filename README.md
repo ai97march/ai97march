@@ -88,8 +88,17 @@
     <br/>
   </div>
 
+<!--
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+ <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+-->
 
-## 📊 Statistics 
+
+## 📊 GitHub Stats
 <div>
    <img alt="Azarul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ai97march&custom_title=Azarul%20Islam's%20Contribution%20Graph&theme=react-dark&hide_border=true" />
 </div>
