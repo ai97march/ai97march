@@ -15,6 +15,8 @@
  <img src="https://komarev.com/ghpvc/?username=ai97march&label=Profile%20views&color=0e75b6&style=flat" alt="ai97march" />
  <img src="https://img.shields.io/github/followers/ai97march?label=Followers&style=social" alt="followers-count"> 
 </p>
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
  
   💫 About Me:
   
